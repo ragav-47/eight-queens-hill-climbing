@@ -40,4 +40,5 @@ def plot_NQueens(solution):
             newax.imshow(im)
             newax.axis('off')    
     fig.tight_layout()
+    plt.axis("off")
     plt.show()
