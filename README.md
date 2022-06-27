@@ -1,4 +1,7 @@
-# Hill Climbing Algorithm for Eight Queens Problem
+## EX NO:05
+## DATE:23.05.2022
+# <p align="center">Hill Climbing Algorithm for Eight Queens Problem
+
 ## AIM
 
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
@@ -22,6 +25,10 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+```
+Developed by: Vijayaragavan ARR
+Register  No:  212220230059
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
